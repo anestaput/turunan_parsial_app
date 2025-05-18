@@ -1,0 +1,1 @@
+# turunan_parsial_app
